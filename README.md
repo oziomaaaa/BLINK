@@ -71,8 +71,7 @@ Unlike YouTube tutorials or blog posts, BLINK:
 
 🖼️ Visuals  
 Below are some early wireframe sketches showing how Blink works:
-- ![wireframe 1](<BLINK wireframe 1-1.png>)
-- ![wireframe 2 ](<Blink wireframe 2.png>)
+- ![Wireframe](<Wireframe 1.png>)
 
 
 📬 Contact & Support
